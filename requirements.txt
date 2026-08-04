@@ -1,3 +1,5 @@
 flask
 yfinance
 requests
+pywebpush
+cryptography
